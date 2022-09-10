@@ -1,1 +1,1 @@
-# Prediciton-Using-Decisin-Tree-Algorithm
+# Prediciton-Using-Decision-Tree-Algorithm
